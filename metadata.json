@@ -1,0 +1,7 @@
+{
+  "name": "Copy of The Patisserie Lane - Premium Artisanal Bakery",
+  "description": "A high-end digital transformation platform for The Patisserie Lane, featuring smart order management, AI-driven cake consultation, and professional brand storytelling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
